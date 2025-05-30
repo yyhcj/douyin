@@ -1,0 +1,33 @@
+{
+  "name": "douyin-auto-add-friend",
+  "version": "1.0.0",
+  "description": "Auto.js 自动添加抖音好友并发送私信的脚本",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "Auto.js",
+    "抖音",
+    "自动化",
+    "脚本"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "auto.js-pro": "^1.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/douyin-auto-add-friend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/douyin-auto-add-friend/issues"
+  },
+  "homepage": "https://github.com/yourusername/douyin-auto-add-friend#readme"
+}
